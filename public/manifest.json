@@ -1,0 +1,22 @@
+{
+  "short_name": "Weather App",
+  "name": "Weather App PWA",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "images/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "maskable any"
+    }
+  ],
+  "start_url": ".",
+  "display": "browser",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
